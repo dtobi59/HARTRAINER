@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HARTRAINER</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="phoneerror">Enter a valid mobile</string>
+    <string name="heighterror">Enter a valid Height</string>
+    <string name="weighterror">Enter a valid Weight</string>
+    <string name="passworderror">Enter a valid Password</string>
+</resources>
